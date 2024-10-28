@@ -1,0 +1,26 @@
+{
+  "name": "botfntd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "meauthor!!!",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "discord-pagination-advanced": "^1.1.9",
+    "discord-tictactoe": "^3.3.0",
+    "discord.js": "^13.17.1",
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security",
+    "images-scraper": "^6.4.0",
+    "mongoose": "^5.13.22",
+    "yt-search": "^2.12.1",
+    "ytdl-core": "^4.11.5"
+  },
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  }
+}
